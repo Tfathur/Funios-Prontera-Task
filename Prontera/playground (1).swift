@@ -12,9 +12,3 @@ if umurTeuku >= 16 && umurTeuku < 19 {
 } else if umurTeuku >= 19 {
     print("KULIAH") 
 }
-
-for i in 1...1000 {
-    if i % 4 != 0 {
-        print ("Kabisat \(i)")
-    }
-}
